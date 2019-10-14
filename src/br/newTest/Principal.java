@@ -13,11 +13,7 @@ public class Principal {
 		Carro.t2.start();
 		Carro.t3.start();
 		Carro.t4.start();
-		
-		Carro.t1.join();
-		Carro.t2.join();
-		Carro.t3.join();
-		Carro.t4.join();
+
 	}
 
 }
